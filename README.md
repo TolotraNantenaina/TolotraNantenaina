@@ -1,7 +1,13 @@
+<style>
+    .custom-summary {
+        font-size: 30px;
+        font-weigth: bold
+    }
+</style>
 
 <details open>
-<summary>🇬🇧 English Version</summary>
----
+<summary class="custom-summary">🇬🇧 English Version</summary>
+
 
 <h1 align="center">Hi 👋, I'm RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
 <h3 align="center">Fullstack Developer | Software Engineer</h3>
@@ -82,7 +88,7 @@ I enjoy solving complex problems and turning ideas into real-world digital solut
 ---
 
 <details>
-<summary>🇫🇷 Version Française</summary>
+<summary class="custom-summary">🇫🇷 Version Française</summary>
 ---
 
 <h1 align="center">Bonjour 👋, je suis RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
