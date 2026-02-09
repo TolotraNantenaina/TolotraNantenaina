@@ -3,6 +3,12 @@
   <a href="#version-française">🇫🇷 Français</a>
 </p>
 
+<p align="center">
+Click to choose language 👇  
+</p>
+
+<details open>
+<summary>🇬🇧 English</summary>
 ---
 
 # 🇬🇧 English Version
@@ -80,6 +86,13 @@ I enjoy solving complex problems and turning ideas into real-world digital solut
 
 ⭐ If you like my work, feel free to follow me and star my repositories!
 
+
+</details>
+
+---
+
+<details>
+<summary>🇫🇷 Français</summary>
 ---
 
 # 🇫🇷 Version Française
@@ -157,3 +170,5 @@ J’aime résoudre des problèmes complexes et transformer des idées en solutio
 ⭐ Si tu aimes mes travaux, Suivez-moi et n'oubliez pas de mettre une étoile sur mes projets !
 
 ---
+
+</details>
