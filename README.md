@@ -1,17 +1,10 @@
 <p align="center">
-  <a href="#english-version">🇬🇧 English</a> | 
-  <a href="#version-française">🇫🇷 Français</a>
-</p>
-
-<p align="center">
 Click to choose language 👇  
 </p>
 
 <details open>
-<summary>🇬🇧 English</summary>
+<summary># 🇬🇧 English Version</summary>
 ---
-
-# 🇬🇧 English Version
 
 <h1 align="center">Hi 👋, I'm RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
 <h3 align="center">Fullstack Developer | Software Engineer</h3>
@@ -92,10 +85,8 @@ I enjoy solving complex problems and turning ideas into real-world digital solut
 ---
 
 <details>
-<summary>🇫🇷 Français</summary>
+<summary># 🇫🇷 Version Française</summary>
 ---
-
-# 🇫🇷 Version Française
 
 <h1 align="center">Bonjour 👋, je suis RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
 <h3 align="center">Développeur Fullstack | Ingénieur Logiciel</h3>
