@@ -1,9 +1,6 @@
-<p align="center">
-Click to choose language 👇  
-</p>
 
 <details open>
-<summary># 🇬🇧 English Version</summary>
+<summary>🇬🇧 English Version</summary>
 ---
 
 <h1 align="center">Hi 👋, I'm RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
@@ -85,7 +82,7 @@ I enjoy solving complex problems and turning ideas into real-world digital solut
 ---
 
 <details>
-<summary># 🇫🇷 Version Française</summary>
+<summary>🇫🇷 Version Française</summary>
 ---
 
 <h1 align="center">Bonjour 👋, je suis RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
