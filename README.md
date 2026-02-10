@@ -1,4 +1,4 @@
-<image src="./ChatGPT Image 10 févr. 2026, 11_58_36.png" width="300">
+<image src="./ChatGPT Image 10 févr. 2026, 11_58_36.png" width="600" align="center">
 
 <details open>
 <summary style="font-size: 50px; font-weight: bold;">🇬🇧 English Version </summary>
