@@ -1,12 +1,5 @@
-<style>
-    .custom-summary {
-        font-size: 30px;
-        font-weigth: bold
-    }
-</style>
-
 <details open>
-<summary class="custom-summary">🇬🇧 English Version</summary>
+<summary>***🇬🇧 English Version***</summary>
 
 
 <h1 align="center">Hi 👋, I'm RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
@@ -88,7 +81,7 @@ I enjoy solving complex problems and turning ideas into real-world digital solut
 ---
 
 <details>
-<summary class="custom-summary">🇫🇷 Version Française</summary>
+<summary>***🇫🇷 Version Française***</summary>
 ---
 
 <h1 align="center">Bonjour 👋, je suis RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
