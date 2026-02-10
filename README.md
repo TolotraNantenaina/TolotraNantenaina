@@ -1,5 +1,5 @@
 <details open>
-<summary style="font-size: 24px; font-weight: bold;">🇬🇧 English Version </summary>
+<summary style="font-size: 50px; font-weight: bold;">🇬🇧 English Version </summary>
 
 
 <h1 align="center">Hi 👋, I'm RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
@@ -81,7 +81,7 @@ I enjoy solving complex problems and turning ideas into real-world digital solut
 ---
 
 <details>
-<summary style="font-size: 24px; font-weight: bold;">🇫🇷 Version Française </summary>
+<summary style="font-size: 50px; font-weight: bold;">🇫🇷 Version Française </summary>
 ---
 
 <h1 align="center">Bonjour 👋, je suis RANDRIANANTENAINA Tolotra Nomenjanahary</h1>
